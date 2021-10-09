@@ -2,6 +2,14 @@ import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
 
 import '../styles/main.css'
+import TagManager from 'react-gtm-module'
+ 
+const tagManagerArgs = {
+    gtmId: 'GTM-KFTWFLX'
+}
+ 
+TagManager.initialize(tagManagerArgs)
+
 
 export default function Nextra({ Component, pageProps }) {
   return (
