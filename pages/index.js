@@ -13,6 +13,7 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
         <link rel="shortcut icon" href="/favicon.ico" />
+        <script async src="https://cdn.splitbee.io/sb.js"></script>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hey, I'm Seb Agudelo - Head of Marketing @ {' '}
