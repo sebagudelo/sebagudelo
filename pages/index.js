@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey, I'm Seb Agudelo. Head of Marketing @ {' '}
+        <p>Hey, I'm Seb Agudelo - Head of Marketing @ {' '}
           <a href="https://nhost.io">Nhost</a></p>
         <p>I write about Growth, Startups and The Web.</p>
         <p>Subscribe to get updates on building marketing from zero to one.</p>
