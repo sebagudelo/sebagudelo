@@ -4,7 +4,7 @@ import utilStyles from '../styles/utils.module.css'
 import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
-import SignupForm from '../components/SignupForm';
+import SignupForm from '../components/SignupForm'
 
 
 export default function Home({ allPostsData }) {
@@ -16,8 +16,11 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hey, I'm Seb Agudelo - Head of Marketing @ {' '}
           <a href="https://nhost.io">Nhost</a></p>
-        <p>I write about Growth, Startups and The Web.</p>
-        <p>Subscribe to get updates on building marketing from zero to one.</p>
+        <p>I help technical founders grow markets and distribute core product value.</p>
+        <p>Sharing what I learn to help Marketers + Product people 10x their productivity. </p>
+          <p>Writing to make sense of Growth, Startups and The Web.</p>
+        <p> Subscribe for updates.</p>
+
       </section>
 
       <section>
