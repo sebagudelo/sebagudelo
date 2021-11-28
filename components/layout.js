@@ -6,7 +6,7 @@ import Link from 'next/link'
 import SignupForm from '../components/SignupForm';
 
 const name = 'Seb Agudelo'
-export const siteTitle = 'Seb Agudelo Blog'
+export const siteTitle = 'Seb Agudelo - Marketing & Growth'
 
 export default function Layout({ children, home }) {
   return (

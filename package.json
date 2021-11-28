@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@splitbee/web": "^0.3.0",
     "date-fns": "^2.25.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
