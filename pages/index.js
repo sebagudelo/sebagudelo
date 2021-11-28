@@ -17,9 +17,8 @@ export default function Home({ allPostsData }) {
         <p>Hey, I'm Seb Agudelo - Head of Marketing @ {' '}
           <a href="https://nhost.io">Nhost</a></p>
         <p>I help technical founders grow markets and distribute core product value.</p>
-        <p>Sharing what I learn to help Marketers + Product people 10x their productivity. </p>
-          <p>Writing to make sense of Growth, Startups and The Web.</p>
-        <p> Subscribe for updates.</p>
+        <p>Sharing what I learn to help Marketing + Product teams to 10x their productivity. </p>
+        <p>Learn with me.</p>
 
       </section>
 
