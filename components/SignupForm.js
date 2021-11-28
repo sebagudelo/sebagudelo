@@ -1,6 +1,9 @@
+import {html} from "./signupform.html"
 const SignupForm = ({ title }) => {
     return (
-      <script async data-uid="65d295f7cb" src="https://unique-builder-8421.ck.page/65d295f7cb/index.js"></script>
-    );
+      
+      <div className="content" dangerouslySetInnerHTML={{__html: html}}></div>
+      
+    )
   };
   export default SignupForm;

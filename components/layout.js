@@ -25,6 +25,8 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+        <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+
       </Head>
       <header className={styles.header}>
         {home ? (

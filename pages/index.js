@@ -12,6 +12,7 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hey, I'm Seb Agudelo - Head of Marketing @ {' '}
