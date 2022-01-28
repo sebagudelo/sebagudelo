@@ -23,8 +23,9 @@ export default function Home({ allPostsData }) {
         <p>SaaS Growth Levers: Acquisition, Retention and Monetization</p>
         <p>SaaS Growth Motions: Product-Led, Marketing-Led and Sales/CS-Led</p>
 
-        <p>I share what I learn in tech to help Growth + Product teams boost their productivity.</p>
-        <p>Learn with me.</p>
+        <p>I enjoy writing about the future of Growth, Startups and The Web.</p>
+
+        <p>Subscribe to stay up to date.</p>
 
       </section>
 
