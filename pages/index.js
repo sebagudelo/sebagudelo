@@ -16,10 +16,14 @@ export default function Home({ allPostsData }) {
         <script async src="https://cdn.splitbee.io/sb.js"></script>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey, I'm Seb Agudelo - Head of Marketing @ {' '}
+        <p>Hey, I'm Seb Agudelo - Head of Growth @ {' '}
           <a href="https://nhost.io">Nhost</a></p>
-        <p>I help technical founders grow markets and distribute core product value.</p>
-        <p>Sharing what I learn to help Marketing + Product teams to 10x their productivity. </p>
+        <p>I help technical founders grow their active users and distribute core product value.</p>
+        <p>I have broad experience across APAC/EMEA with:</p>
+        <p>SaaS Growth Levers: Acquisition, Retention and Monetization</p>
+        <p>SaaS Growth Motions: Product-Led, Marketing-Led and Sales/CS-Led</p>
+
+        <p>I share what I learn in tech to help Growth + Product teams boost their productivity.</p>
         <p>Learn with me.</p>
 
       </section>
