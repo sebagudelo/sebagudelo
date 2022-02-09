@@ -7,7 +7,8 @@ import SignupForm from '../components/SignupForm';
 
 const name = 'Seb Agudelo'
 export const siteTitle = 'Seb Agudelo - Growth, Startups, The Web'
-
+const seb = 'Back to home'
+const gsw = 'Growth Leader'
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
@@ -44,7 +45,11 @@ export default function Layout({ children, home }) {
               width={144}
               alt={name}
             />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <h1 className={utilStyles.heading2Xl}>{name} </h1>
+            <h1 className={utilStyles.headingLg}>{gsw} </h1>
+            <h1 className={utilStyles.headingMd}>{<p><a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer">Twitter |</a> 
+            <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> LinkedIn |</a> <a href="mailto:hi@sebagudelo .com">Email </a></p>
+}</h1>
           </>
         ) : (
           <>
@@ -60,9 +65,9 @@ export default function Layout({ children, home }) {
                 />
               </a>
             </Link>
-            <h2 className={utilStyles.headingLg}>
+            <h2 className={utilStyles.headingMd}>
               <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
+                <a className={utilStyles.colorInherit}>{seb}</a>
               </Link>
             </h2>
           </>
