@@ -7,9 +7,11 @@ import utilStyles from '../../styles/utils.module.css'
 
 export default function Post({ postData }) {
   return (
-    <Layout>
-      <Head>
+    <Layout postData={postData}>
+      <Head> 
         <title>{postData.title}</title>
+
+      <meta property="og:title" contet="og titel" />
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{postData.title}</h1>
