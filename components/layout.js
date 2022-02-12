@@ -20,19 +20,12 @@ export default function Layout({ children, home }) {
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="theme-color" content="#ffffff" />
         
-        <meta
-          name="description"
-          content="Growth, Startups and The Web"
-        />
+        <meta property="description" content="Writing stuff" />
         <meta property="og:image" content="/images/profile.jpg" />
         <meta property="og:locale" content="website" />
         <meta property="og:type" content="en_US" />
         <meta property="og:URL" content="https://sebagudelo.com" />
         <meta property="og:title" content={siteTitle} />
-        <meta name="twitter:card" content="/images/profile.jpg" />
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:label1" content="Est. Reading Time" />
-        <meta name="twitter:data1" content="2 minutes" />
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 
       </Head>
