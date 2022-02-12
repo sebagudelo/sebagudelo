@@ -1,9 +1,11 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from './layout.module.css'
+import { getAllPostIds, getPostData } from '../../lib/posts'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 import SignupForm from '../components/SignupForm';
+
 
 const name = 'Seb Agudelo'
 export const siteTitle = 'Seb Agudelo - Growth, Startups, The Web'
@@ -20,7 +22,7 @@ export default function Layout({ children, home }) {
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="theme-color" content="#ffffff" />
         
-        <meta property="og:title" content={siteTitle} />
+        <meta property="og:title" content={postData.title} />
         <meta property="description" content="" />
         <meta property="og:locale" content="website" />
         <meta property="og:type" content="en_US" />
@@ -29,14 +31,14 @@ export default function Layout({ children, home }) {
       
         <meta property="og:url" content="https://sebagudelo.com/"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:title" content={siteTitle} />
+        <meta property="og:title" content={postData.title} />
         <meta property="og:description" content=""/>
         <meta property="og:image" content="/images/profile.jpg" />
 
         <meta name="twitter:card" content="summary_large_image"/>
         <meta property="twitter:domain" content="sebagudelo.com"/>
         <meta property="twitter:url" content="https://sebagudelo.com/"/>
-        <meta property="og:title" content={siteTitle} />
+        <meta property="og:title" content={postData.title} />
         <meta name="twitter:description" content=""/>
         <meta name="twitter:image" content="/images/profile.jpg"/>
         
