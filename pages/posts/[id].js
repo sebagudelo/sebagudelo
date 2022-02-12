@@ -6,6 +6,7 @@ import Date from '../../components/date'
 import utilStyles from '../../styles/utils.module.css'
 
 export default function Post({ postData }) {
+  
   const pageTitle = postData ? postData.title : siteTitle;
 
 const siteTitle = 'Seb Agudelo - Growth, Startups, The Web'

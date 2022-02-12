@@ -5,7 +5,7 @@ date: '2021-08-30'
 
 Exciting times last week as I kicked off as Head of Growth for [Nhost](https://nhost.io).
 
-It’s going to be a ride building Marketing zero to one and I will continue to share the journey as we go.
+It’s going to be a ride building Growth zero to one and I will continue to share the journey as we go.
 
 ----
 
