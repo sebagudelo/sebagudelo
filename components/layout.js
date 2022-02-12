@@ -23,14 +23,10 @@ export default function Layout({ children, home }) {
           name="description"
           content="Growth, Startups and The Web"
         />
-        <meta
-          property="og:image"
-          content={`https://og-image.vercel.app/${encodeURI(
-            siteTitle
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
+        <meta property="og:image" content="/images/profile.jpg" 
         />
         <meta name="og:title" content={siteTitle} />
-        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:card" content="/images/profile.jpg" />
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 
       </Head>
@@ -45,6 +41,7 @@ export default function Layout({ children, home }) {
               width={144}
               alt={name}
             />
+
             <h1 className={utilStyles.heading2Xl}>{name} </h1>
             <h1 className={utilStyles.headingLg}>{gsw} </h1>
             <h1 className={utilStyles.headingMd}>{<p><a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer">Twitter |</a> 

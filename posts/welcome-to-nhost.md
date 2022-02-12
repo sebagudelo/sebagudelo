@@ -3,7 +3,7 @@ title: 'Welcome to Nhost'
 date: '2021-08-30'
 ---
 
-Exciting times last week as I kicked off as Head of Marketing for [Nhost](https://nhost.io).
+Exciting times last week as I kicked off as Head of Growth for [Nhost](https://nhost.io).
 
 It’s going to be a ride building Marketing zero to one and I will continue to share the journey as we go.
 
@@ -27,9 +27,9 @@ Hasura GraphQL, Postgres database, Storage, Authentication and Serverless Functi
 
 ## Here are just some of the reasons why I decided to join the Nhost team:
 
-**Founder/Head of Marketing Fit**
+**Founder/Head of Growth Fit**
 
-Meeting with Johan and Nuno it was clear they have a deep understanding of the developer tools space and a strong vision to build a meaningful company. Given my experience in the go-to-market focused roles in SaaS: Marketing, Sales and Customer Success we complement each other well.
+Meeting with Johan and Nuno it was clear they have a deep understanding of the developer tools space and a strong vision to build a meaningful company. Given my experience in across the full customer journey in SaaS: Marketing, Sales and Customer Success we complement each other well.
 
 We jammed on books, podcasts and David Goggins. We also both experienced the [Antler](https://www.antler.co/) program in Sweden and Sydney respectively and it is great to be back in the community.
 
