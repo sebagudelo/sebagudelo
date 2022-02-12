@@ -22,25 +22,25 @@ export default function Layout({ children, home, postData }) {
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="theme-color" content="#ffffff" />
         
-        <meta property="og:title" content={pageTitle} />
-        <meta property="description" content="" />
-        <meta property="og:locale" content="website" />
-        <meta property="og:type" content="en_US" />
-        <meta property="og:URL" content="https://sebagudelo.com" />
-        <meta property="og:image" content="/images/profile.jpg" />
+        <meta property="og:title" content={siteTitle} key="site-title"/>
+        <meta property="description" content="" key="site-description"/>
+        <meta property="og:locale" content="website" key="site-locale"/>
+        <meta property="og:type" content="en_US" key="site-type"/>
+        <meta property="og:URL" content="https://sebagudelo.com" key="site-URL" />
+        <meta property="og:image" content="/images/profile.jpg" key="site-image" />
       
-        <meta property="og:url" content="https://sebagudelo.com/"/>
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content={pageTitle} />
-        <meta property="og:description" content=""/>
-        <meta property="og:image" content="/images/profile.jpg" />
+        <meta property="og:url" content="https://sebagudelo.com/" key="facebook-title"/>
+        <meta property="og:type" content="website" key="facebook-type"/>
+        <meta property="og:title" content={siteTitle} key="facebook-title"/>
+        <meta property="og:description" content="" key="facebook-description"/>
+        <meta property="og:image" content="/images/profile.jpg" key="facebook-image" />
 
-        <meta name="twitter:card" content="summary_large_image"/>
-        <meta property="twitter:domain" content="sebagudelo.com"/>
-        <meta property="twitter:url" content="https://sebagudelo.com/"/>
-        <meta property="og:title" content={pageTitle} />
-        <meta name="twitter:description" content=""/>
-        <meta name="twitter:image" content="/images/profile.jpg"/>
+        <meta name="twitter:card" content="summary_large_image" key="twitter-card"/>
+        <meta property="twitter:domain" content="sebagudelo.com"key="twitter-domain"/>
+        <meta property="twitter:url" content="https://sebagudelo.com/" key="twitter-url"/>
+        <meta property="og:title" content={siteTitle} key="twitter-title"/>
+        <meta name="twitter:description" content="" key="twitter-description"/>
+        <meta name="twitter:image" content="/images/profile.jpg" key="twitter-image"/>
         
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 
