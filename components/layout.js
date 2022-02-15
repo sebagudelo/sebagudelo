@@ -18,7 +18,6 @@ export default function Layout({ children, home, postData }) {
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
           <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
           <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-          <link rel="manifest" href="/site.webmanifest" />
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="theme-color" content="#ffffff" />
         
@@ -27,20 +26,20 @@ export default function Layout({ children, home, postData }) {
         <meta property="og:locale" content="website" key="site-locale"/>
         <meta property="og:type" content="en_US" key="site-type"/>
         <meta property="og:URL" content="https://sebagudelo.com" key="site-URL" />
-        <meta property="og:image" content="/images/profile.jpg" key="site-image" />
+        <meta property="og:image" content="/images/SebTwitter.png" key="site-image" />
       
         <meta property="og:url" content="https://sebagudelo.com/" key="facebook-title"/>
         <meta property="og:type" content="website" key="facebook-type"/>
         <meta property="og:title" content={siteTitle} key="facebook-title"/>
         <meta property="og:description" content="" key="facebook-description"/>
-        <meta property="og:image" content="/images/profile.jpg" key="facebook-image" />
+        <meta property="og:image" content="/images/SebTwitter.png" key="facebook-image" />
 
         <meta name="twitter:card" content="summary_large_image" key="twitter-card"/>
         <meta property="twitter:domain" content="sebagudelo.com"key="twitter-domain"/>
         <meta property="twitter:url" content="https://sebagudelo.com/" key="twitter-url"/>
         <meta property="og:title" content={siteTitle} key="twitter-title"/>
         <meta name="twitter:description" content="" key="twitter-description"/>
-        <meta name="twitter:image" content="/images/profile.jpg" key="twitter-image"/>
+        <meta name="twitter:image" content="/images/SebTwitter.png" key="twitter-image"/>
         
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 
@@ -51,7 +50,7 @@ export default function Layout({ children, home, postData }) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/SebTwitter.png"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
@@ -70,7 +69,7 @@ export default function Layout({ children, home, postData }) {
               <a>
                 <Image
                   priority
-                  src="/images/profile.jpg"
+                  src="/images/SebTwitter.png"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}
