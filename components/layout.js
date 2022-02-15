@@ -42,6 +42,7 @@ export default function Layout({ children, home, postData }) {
         <meta name="twitter:image" content="/images/SebTwitter.png" key="twitter-image"/>
         
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+        
 
 
       </Head>
