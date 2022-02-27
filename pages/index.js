@@ -20,11 +20,8 @@ export default function Home({ allPostsData }) {
         <p>Hey, I'm Seb Agudelo - Head of Growth @ {' '}
         <a href="https://nhost.io">Nhost</a></p>
         <p>Previously at: <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
-        <p>I help technical founders grow their active users and distribute core product value.</p>
-        <p>I have broad experience across APAC/EMEA with:</p>
-        <p>SaaS Growth Levers: Acquisition, Retention and Monetization</p>
-        <p>SaaS Growth Motions: Product-Led, Marketing-Led and Sales/CS-Led</p>
-
+        <p>10+ years tech experience, with 2 years working directly on growth problems with Product teams. Broad experience across both B2B and B2C value chains.</p>
+        
         <p>Decoding how startups grow and scale.</p>
 
         <p>Subscribe to stay up to date.</p>
