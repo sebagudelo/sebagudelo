@@ -17,9 +17,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
 
-        <p>Hey, I'm Seb Agudelo - Head of Growth @ {' '}
-        <a href="https://nhost.io">Nhost</a></p>
-        <p>Previously at: <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
+        <p>Hey, I'm Seb Agudelo - Growth Product </p>
+        <p>Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
         <p>10+ years tech experience, with 2 years working directly on growth problems with Product teams. Broad experience across both B2B and B2C value chains.</p>
         
         <p>Decoding how startups grow and scale.</p>
