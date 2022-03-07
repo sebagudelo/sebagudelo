@@ -8,7 +8,7 @@ import SignupForm from '../components/SignupForm';
 const name = 'Seb Agudelo'
 export const siteTitle = 'Seb Agudelo - Growth Product'
 const seb = 'Back to home'
-const gsw = 'Growth Product'
+const gsw = 'Product Growth'
 export default function Layout({ children, home, postData }) {
   console.log(postData)
   const pageTitle = postData ? postData.title : siteTitle;
@@ -61,7 +61,7 @@ export default function Layout({ children, home, postData }) {
             <h1 className={utilStyles.heading2Xl}>{name} </h1>
             <h1 className={utilStyles.headingLg}>{gsw} </h1>
             <h1 className={utilStyles.headingMd}>{<p><a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer">Twitter |</a> 
-            <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> LinkedIn |</a> <a href="mailto:hi@sebagudelo .com">Email </a></p>
+            <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> LinkedIn |</a> <a href="mailto:hi@sebagudelo .com">Email |</a><a href="https://calendly.com/sebagudelo"> Calendly</a></p>
 }</h1>
           </>
         ) : (

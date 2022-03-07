@@ -9,7 +9,7 @@ export default function Post({ postData }) {
   
   const pageTitle = postData ? postData.title : siteTitle;
 
-const siteTitle = 'Seb Agudelo - Growth, Startups, The Web'
+const siteTitle = 'Seb Agudelo - Product Growth'
   return (
     <Layout postData={postData}>
       <Head> 
