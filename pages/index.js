@@ -17,11 +17,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
 
-        <p>Hey, I'm Seb Agudelo - Product Growth </p>
+        <p>Hey, I'm Seb Agudelo. </p>
+        <p>I have 10+ years tech experience across APAC/EMEA, with 2 years working directly on user + retention problems with Product teams. I enjoy writing and exploring how Product teams build and grow products.</p>
         <p>Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
-        <p>10+ years tech experience, with 2 years working directly on user + retention problems with Product teams. Broad experience across both B2B and B2C value chains.</p>
         
-        <p>Decoding how startups grow and scale.</p>
 
       </section>
 

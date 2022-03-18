@@ -6,9 +6,9 @@ import Link from 'next/link'
 import SignupForm from '../components/SignupForm';
 
 const name = 'Seb Agudelo'
-export const siteTitle = 'Seb Agudelo - Growth Product'
+export const siteTitle = 'Seb Agudelo - Exploring How Products Grow'
 const seb = 'Back to home'
-const gsw = 'Product Growth'
+const gsw = 'Exploring How Products Grow'
 export default function Layout({ children, home, postData }) {
   console.log(postData)
   const pageTitle = postData ? postData.title : siteTitle;
