@@ -6,6 +6,10 @@ import Navbar from '../components/Navbar';
 import Link from 'next/link'
 import SignupForm from '../components/SignupForm';
 import Footer from '../components/footer';
+import { FaTwitter } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
+import { FaRegEnvelope } from 'react-icons/fa';
+import { FaRegCalendarAlt } from 'react-icons/fa';
 
 const name = 'Seb Agudelo'
 export const siteTitle = 'Seb Agudelo - Exploring How Products Grow'
@@ -44,7 +48,6 @@ export default function Layout({ children, home, postData }) {
         <meta name="twitter:image" content="/images/SebTwitter.png" key="twitter-image"/>
         
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
-        <script src="https://kit.fontawesome.com/795c46eaff.js" crossorigin="anonymous"></script>
       </Head>
       
       <Navbar />
@@ -92,12 +95,15 @@ export default function Layout({ children, home, postData }) {
           </div>
       )}
 
-<section>
-<div className={styles.footer} id="contact">
-      <Footer />
-      <p> <a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer"> Twitter |</a> <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> LinkedIn |</a> <a href="mailto:hi@sebagudelo.com">Email |</a><a href="https://calendly.com/sebagudelo"> Calendly</a></p>
-</div>
-</section>
+<div className={styles.footer} id="contact"> 
+<p> 
+      <a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer"> <FaTwitter /> </a> 
+      <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> <FaLinkedin /> </a> 
+      <a href="mailto:hi@sebagudelo.com"><FaRegEnvelope /> </a>
+      <a href="https://calendly.com/sebagudelo"> <FaRegCalendarAlt /></a>
+      </p> 
+    </div>
+    <Footer />
     </div>
   )
 }

@@ -5,7 +5,8 @@ import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
 import SignupForm from '../components/SignupForm'
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { FaTwitter } from 'react-icons/fa';
 
 export default function Home({ allPostsData }) {
   return (
@@ -22,9 +23,7 @@ export default function Home({ allPostsData }) {
       About
       </a>
       </h2>
-
         <p>👋 Hey, I'm Seb Agudelo</p>
-        
         <p>💻 10+ years tech experience across APAC/EMEA, with 2 years working
         directly on user + retention problems with Product teams</p> 
         
