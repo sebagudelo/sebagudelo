@@ -95,7 +95,7 @@ export default function Layout({ children, home, postData }) {
 <section>
 <div className={styles.footer} id="contact">
       <Footer />
-      <p> <a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer"> Twitter |</a> <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> LinkedIn |</a> <a href="mailto:hi@sebagudelo .com">Email |</a><a href="https://calendly.com/sebagudelo"> Calendly</a></p>
+      <p> <a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer"> Twitter |</a> <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> LinkedIn |</a> <a href="mailto:hi@sebagudelo.com">Email |</a><a href="https://calendly.com/sebagudelo"> Calendly</a></p>
 </div>
 </section>
     </div>
