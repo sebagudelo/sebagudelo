@@ -2,7 +2,7 @@ const Footer = ({ title }) => {
     return (
       
       <div>
-<p> &copy; Seb Agudelo {new Date().getFullYear()}--</p>
+<p> &copy; Seb Agudelo, {new Date().getFullYear()}</p>
       </div>
     )
   };
