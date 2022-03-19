@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 import Navbar from '../components/Navbar';
 import Link from 'next/link'
 import SignupForm from '../components/SignupForm';
-import Footer from '../components/Footer';
+import Footer from '../components/footer';
 
 const name = 'Seb Agudelo'
 export const siteTitle = 'Seb Agudelo - Exploring How Products Grow'
