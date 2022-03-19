@@ -36,7 +36,6 @@
     scroll-behavior: smooth;
   }
 
-
   .nav {
     height: 100%;
     display: flex;
@@ -47,6 +46,8 @@
     padding: 32px;
     scroll-behavior: smooth;
   }
+    
+  
   
   .nav > a {
     margin: 8px 0;

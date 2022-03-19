@@ -14,10 +14,11 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
         <link rel="shortcut icon" href="/favicon.ico" />
         <script async src="https://cdn.splitbee.io/sb.js"></script>
+        <script src="https://kit.fontawesome.com/795c46eaff.js" crossorigin="anonymous"></script>
       </Head>
       <div className={utilStyles.headingMd}>
 
-      <h2 className={utilStyles.headingLg} id="about"><a href="http://localhost:3000/#about"> 
+      <h2 className={utilStyles.headingLg} id="about"><a href="https://sebagudelo.com/#about"> 
       About
       </a>
       </h2>
@@ -41,7 +42,7 @@ export default function Home({ allPostsData }) {
       </section>
       
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg} id="writing">Writing</h2>
+        <h2 className={utilStyles.headingLg} id="writing"><a href="https://sebagudelo.com/#writing"> Writing </a></h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
