@@ -2,8 +2,10 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
+import Navbar from '../components/Navbar';
 import Link from 'next/link'
 import SignupForm from '../components/SignupForm';
+import Footer from '../components/Footer';
 
 const name = 'Seb Agudelo'
 export const siteTitle = 'Seb Agudelo - Exploring How Products Grow'
@@ -44,11 +46,15 @@ export default function Layout({ children, home, postData }) {
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
         
 
-
+        
       </Head>
+      
+      <Navbar />
+      
       <header className={styles.header}>
         {home ? (
           <>
+          
             <Image
               priority
               src="/images/SebTwitter.png"
@@ -60,9 +66,6 @@ export default function Layout({ children, home, postData }) {
 
             <h1 className={utilStyles.heading2Xl}>{name} </h1>
             <h1 className={utilStyles.headingLg}>{gsw} </h1>
-            <h1 className={utilStyles.headingMd}>{<p><a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer">Twitter |</a> 
-            <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> LinkedIn |</a> <a href="mailto:hi@sebagudelo .com">Email |</a><a href="https://calendly.com/sebagudelo"> Calendly</a></p>
-}</h1>
           </>
         ) : (
           <>
@@ -78,11 +81,6 @@ export default function Layout({ children, home, postData }) {
                 />
               </a>
             </Link>
-            <h2 className={utilStyles.headingMd}>
-              <Link href="/">
-                <a className={utilStyles.colorInherit}>{seb}</a>
-              </Link>
-            </h2>
           </>
         )}
       </header>
@@ -95,6 +93,12 @@ export default function Layout({ children, home, postData }) {
           </Link>
           </div>
       )}
+<div className={styles.footer} id="contact">
+      <Footer />
+      <p><a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer">Twitter |</a> 
+            <a href="https://linkedin.com/in/sebagudelo" target="_blank" rel="noopener noreferrer"> LinkedIn |</a> <a href="mailto:hi@sebagudelo .com">Email |</a><a href="https://calendly.com/sebagudelo"> Calendly</a></p>
+</div>
+
     </div>
   )
 }

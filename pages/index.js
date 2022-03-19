@@ -15,26 +15,33 @@ export default function Home({ allPostsData }) {
         <link rel="shortcut icon" href="/favicon.ico" />
         <script async src="https://cdn.splitbee.io/sb.js"></script>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <div className={utilStyles.headingMd}>
+
+      <h2 className={utilStyles.headingLg} id="about"><a href="http://localhost:3000/#about"> 
+      About
+      </a>
+      </h2>
 
         <p>👋 Hey, I'm Seb Agudelo</p>
         
         <p>💻 10+ years tech experience across APAC/EMEA, with 2 years working
         directly on user + retention problems with Product teams</p> 
         
-        <p>🛠️ I enjoy writing and exploring how Product teams build and grow products</p>
-        
         <p>😎 Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
         
+        <p>🛠️ Learning how teams build and grow products</p>
+        
+        
+        
 
-      </section>
+      </div>
 
       <section>
       <SignupForm/>
       </section>
       
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Writing</h2>
+        <h2 className={utilStyles.headingLg} id="writing">Writing</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
