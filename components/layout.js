@@ -11,10 +11,10 @@ import { FaLinkedin } from 'react-icons/fa';
 import { FaRegEnvelope } from 'react-icons/fa';
 import { FaRegCalendarAlt } from 'react-icons/fa';
 
-const name = 'Seb Agudelo'
-export const siteTitle = 'Seb Agudelo - Exploring How Products Grow'
+const name = 'How Products Grow'
+export const siteTitle = 'Seb Agudelo - How Products Grow'
 const seb = 'Back to home'
-const gsw = 'Exploring How Products Grow'
+const gsw = 'Learn how teams grow products'
 export default function Layout({ children, home, postData }) {
   console.log(postData)
   const pageTitle = postData ? postData.title : siteTitle;
@@ -48,6 +48,7 @@ export default function Layout({ children, home, postData }) {
         <meta name="twitter:image" content="/images/SebTwitter.png" key="twitter-image"/>
         
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+      
       </Head>
       
       <Navbar />

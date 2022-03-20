@@ -24,14 +24,15 @@ export default function Home({ allPostsData }) {
       </a>
       </h2>
         <p>👋 Hey, I'm Seb Agudelo</p>
-        <p>💻 10+ years tech experience across APAC/EMEA, with 2 years working
-        directly on user + retention problems with Product teams</p> 
+
+        <p>💻 10+ years tech experience, with 5 years working
+        directly on user + retention problems with Product + Customer Success teams</p> 
         
-        <p>😎 Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
+        <p>🛠️ In transition to PM with <a href="https://www.joincolab.io/">Co.Lab |</a> Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
         
-        <p>🛠️ Learning how teams build and grow products</p>
+        <p>🏄‍♂️ Sharing the ride to help reflect on my Product thinking and also to help other Product People on their journey</p>
         
-        <p>💬 I enjoy chatting with Product people all over the world. Feel free to reach out and book a<a href="https://calendly.com/sebagudelo"> time</a></p>
+        <p>💬 I enjoy chatting with Product People all over the world. Feel free to reach out and book a<a href="https://calendly.com/sebagudelo"> time</a></p>
       </div>
       
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
