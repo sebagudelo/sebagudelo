@@ -50,10 +50,6 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
-      <section>
-      <SignupForm/>
-      </section>
-
     </Layout>
   )
 }

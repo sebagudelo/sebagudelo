@@ -95,6 +95,10 @@ export default function Layout({ children, home, postData }) {
           </div>
       )}
 
+      <div className={styles.signup}>
+      <SignupForm/>
+      </div>
+
 <div className={styles.footer} id="contact"> 
 <p> 
       <a href="https://twitter.com/sebagudelo" target="_blank" rel="noopener noreferrer"> <FaTwitter /> </a> 

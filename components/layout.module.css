@@ -56,6 +56,9 @@
   }
     
   .backToHome {
-    margin: 3rem 0 0;
+    margin: 3rem 0 20px;
   }
 
+  .signup {
+    margin: 3rem 0 10px;
+  }
