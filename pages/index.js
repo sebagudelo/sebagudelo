@@ -30,9 +30,6 @@ export default function Home({ allPostsData }) {
         <p>😎 Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
         
         <p>🛠️ Learning how teams build and grow products</p>
-        
-        
-        
 
       </div>
 
