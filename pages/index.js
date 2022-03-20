@@ -30,12 +30,9 @@ export default function Home({ allPostsData }) {
         <p>😎 Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
         
         <p>🛠️ Learning how teams build and grow products</p>
-
+        
+        <p>💬 I enjoy chatting with Product people all over the world. Feel free to reach out and book a<a href="https://calendly.com/sebagudelo"> time</a></p>
       </div>
-
-      <section>
-      <SignupForm/>
-      </section>
       
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg} id="writing"><a href="https://sebagudelo.com/#writing"> Writing </a></h2>
@@ -53,9 +50,15 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
+      <section>
+      <SignupForm/>
+      </section>
+
     </Layout>
   )
 }
+
+
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData()
@@ -65,3 +68,4 @@ export async function getStaticProps() {
     }
   }
 }
+
