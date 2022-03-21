@@ -1,6 +1,11 @@
 ---
 title: 'How Product Marketing will Evolve in Product-Led SaaS Companies'
 date: '2021-07-27'
+url: 'https://sebagudelo.com/posts/how-product-marketing-will-evolve-plg'
+description: 'The way we buy consumer SaaS at home is blending with how we buy B2B SaaS products at work. This shift in buying behaviour focuses on direct user problems. It will introduce more Product-Led Companies and will introduce more opportunities for Product Marketers to expand their craft, while driving business impact.'
+author: 'Seb Agudelo'
+image: '/images/OKRLogo.jpeg'
+
 ---
 
 When was the last time you bought a digital subscription product? It doesn’t matter if it was a content streaming service, a product to launch your side hustle, or even a monthly newsletter to your favourite writer. We have all been there before. 
