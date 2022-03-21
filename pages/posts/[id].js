@@ -30,7 +30,10 @@ export default function Post({ postData }) {
         <meta property="twitter:domain" content="sebagudelo.com"key="twitter-domain"/>
         <meta property="twitter:url" content={postData.url} key="twitter-url"/>
         <meta property="og:title" content={postData.title} key="twitter-title"/>
-        <meta name="twitter:creator" content={postData.author} key="twauthor" />
+        <meta name="twitter:label1" content="Written by" key="written-by" />
+        <meta name="twitter:data1" content={postData.author} key="twitter-author" />
+        <meta name="twitter:label2" content="Est. Reading Time" key="est-read-time" />
+        <meta name="twitter:data2" content={postData.readtime} key="read-time" />
         <meta name="twitter:description" content={postData.description} key="twitter-description"/>
         <meta name="twitter:image" content={postData.image} key="twitter-image"/>
       </Head>
