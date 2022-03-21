@@ -26,7 +26,7 @@ export default function Post({ postData }) {
         <meta property="og:description" content={postData.description} key="facebook-description"/>
         <meta property="og:image" content={postData.image} key="facebook-image" />
 
-        <meta name="twitter:card" content="summary_large_image" key="twitter-card"/>
+        <meta name="twitter:card" content="summary" key="twitter-card"/>
         <meta property="twitter:domain" content="sebagudelo.com"key="twitter-domain"/>
         <meta property="twitter:url" content={postData.url} key="twitter-url"/>
         <meta property="og:title" content={postData.title} key="twitter-title"/>
