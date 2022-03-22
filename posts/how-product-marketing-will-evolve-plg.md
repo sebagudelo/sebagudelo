@@ -5,7 +5,7 @@ url: 'https://sebagudelo.com/posts/how-product-marketing-will-evolve-plg'
 description: 'The way we buy consumer SaaS at home is blending with how we buy B2B SaaS products at work. This shift in buying behaviour focuses on direct user problems. It will introduce more Product-Led Companies and will introduce more opportunities for Product Marketers to expand their craft, while driving business impact.'
 author: 'Seb Agudelo'
 readtime: '5 mins'
-image: '/images/OKRLogo.jpeg'
+image: '/images/saasButton.jpeg'
 
 ---
 
@@ -32,6 +32,8 @@ It can go something like this:
 As consumers, we make a quick decision to sign up to a product that fulfils a need, or that solves a problem in a way we relate to. It is easy to sign up and lots of offerings have a freemium model, or a free trial, which makes it even more tempting. 
 
 The way we buy consumer SaaS at home is blending with how we buy B2B SaaS products at work. This shift in buying behaviour focuses on direct user problems. It will introduce more Product-Led Companies and will introduce more opportunities for Product Marketers to expand their craft, while driving business impact. Let’s explore some of the opportunities we will see now and into the future.
+
+![OKR Logos](/images/saasButton.jpeg "Keyboard with Green SaaS button")
 
 ---
 

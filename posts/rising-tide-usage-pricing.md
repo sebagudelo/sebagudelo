@@ -1,6 +1,11 @@
 ---
 title: 'The Rising Tide of Usage-based Pricing in SaaS'
 date: '2021-05-05'
+url: 'https://sebagudelo.com/posts/rising-tide-usage-pricing'
+description: 'SaaS pricing is an art and a science. Pricing done well can accelerate growth and drive product adoption. Done poorly, it creates friction in the funnel, and can lead to churn later on. While value based pricing will still exist with highly customised solutions, I am observing a rising tide that many SaaS companies will introduce more transparent usage-based pricing as part of their offerings, to get customers started.'
+author: 'Seb Agudelo'
+readtime: '3 mins'
+image: '/images/RisingTide.jpeg'
 ---
 
 SaaS pricing is an art and a science. 

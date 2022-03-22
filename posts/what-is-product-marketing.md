@@ -1,6 +1,11 @@
 ---
 title: 'What is Product Marketing and Why It Matters?'
 date: '2021-04-19'
+url: 'https://sebagudelo.com/posts/what-is-product-marketing'
+description: 'With so many products coming to market, whether your business model is SaaS, Marketplace or Ecommerce - differentiation will get more and more challenging, due to saturation. How you position and tell your product story and iterate on that from customer feedback will be table stakes.'
+author: 'Seb Agudelo'
+readtime: '2 mins'
+image: '/images/PMMPM.jpeg'
 ---
 
 ## What is Product Marketing?
@@ -32,7 +37,13 @@ Product Led-Growth is all the rage right now - and the main output for all of th
 
 ## What is important to get right in Product Marketing?
 
-I have read lots of things about the overlap between Product Manager (PM) and Product Marketing Manager (PMM). From my experience, so far, finding the right balance breaks down to 3 key areas:
+I have read lots of things about the overlap between Product Manager (PM) and Product Marketing Manager (PMM). 
+
+![PMM](/images/PMMPM.jpeg "Responsibility split between Product Marketing Manager + Product Manager")
+
+Source: Product Marketing Alliance
+
+From my experience, so far, finding the right balance breaks down to 3 key areas:
 
 **1) Understanding & Communication**
 

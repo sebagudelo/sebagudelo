@@ -1,6 +1,17 @@
 ---
 title: 'OKRs: Breathing Life into a Corporate Acronym'
 date: '2021-05-15'
+url: 'https://sebagudelo.com/posts/okrs-breathing-life'
+description: 'How do you get true alignment in your team?
+How do you stay focused on the goals that matter?
+These are the questions that are easy to ask but harder to answer.
+OKRs are not a new concept and there is so much content about them, but why are they so hard to nail?
+Let’s cover a brief definition, and then get some insights from an expert, while breathing life into a corporate acronym.'
+author: 'Seb Agudelo'
+readtime: '2 mins'
+image: '/images/OKRLogo.jpeg'
+
+
 ---
 
 How do you get true alignment in your team?

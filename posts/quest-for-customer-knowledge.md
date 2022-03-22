@@ -1,6 +1,11 @@
 ---
 title: 'The Quest for Customer Knowledge'
 date: '2021-04-28'
+url: 'https://sebagudelo.com/posts/quest-for-customer-knowledge'
+description: 'Research is a deep topic, and a quest for learning more about your customer and market. Still, many businesses get this wrong. Here’s why. Jumping straight to a focus group or a quick customer survey is missing the point. From my perspective, starting with questions and assumptions is the most important thing to start the quest. The tactics follow from here.'
+author: 'Seb Agudelo'
+readtime: '3 mins'
+image: '/images/ConfirmationBias.jpeg'
 ---
 
 Research is a deep topic, and a quest for learning more about your customer and market.
