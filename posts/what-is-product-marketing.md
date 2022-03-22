@@ -5,7 +5,7 @@ url: 'https://sebagudelo.com/posts/what-is-product-marketing'
 description: 'With so many products coming to market, whether your business model is SaaS, Marketplace or Ecommerce - differentiation will get more and more challenging, due to saturation. How you position and tell your product story and iterate on that from customer feedback will be table stakes.'
 author: 'Seb Agudelo'
 readtime: '2 mins'
-image: '/images/PMMPM.jpeg'
+image: '/images/PMMPM.png'
 ---
 
 ## What is Product Marketing?
@@ -39,7 +39,7 @@ Product Led-Growth is all the rage right now - and the main output for all of th
 
 I have read lots of things about the overlap between Product Manager (PM) and Product Marketing Manager (PMM). 
 
-![PMM](/images/PMMPM.jpeg "Responsibility split between Product Marketing Manager + Product Manager")
+![PMM](/images/PMMPM.png "Responsibility split between Product Marketing Manager + Product Manager")
 
 Source: Product Marketing Alliance
 
