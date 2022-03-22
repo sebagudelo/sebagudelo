@@ -28,23 +28,17 @@ export default function Layout({ children, home, postData }) {
           <meta name="theme-color" content="#ffffff" />
         
         <meta property="og:title" content={siteTitle} key="site-title"/>
-        <meta property="description" content="" key="site-description"/>
-        <meta property="og:locale" content="website" key="site-locale"/>
-        <meta property="og:type" content="en_US" key="site-type"/>
+        <meta property="description" content="Learn how teams grow products. From discovery, to delivery and market adoption, we will explore all aspects of life as a Product Manager." key="site-description"/>
+        <meta property="og:locale" content="en_us" key="site-locale"/>
+        <meta property="og:type" content="website" key="site-type"/>
         <meta property="og:URL" content="https://sebagudelo.com" key="site-URL" />
         <meta property="og:image" content="/images/SebTwitter.png" key="site-image" />
       
-        <meta property="og:url" content="https://sebagudelo.com/" key="facebook-title"/>
-        <meta property="og:type" content="website" key="facebook-type"/>
-        <meta property="og:title" content={siteTitle} key="facebook-title"/>
-        <meta property="og:description" content="" key="facebook-description"/>
-        <meta property="og:image" content="/images/SebTwitter.png" key="facebook-image" />
-
         <meta name="twitter:card" content="summary_large_image" key="twitter-card"/>
-        <meta property="twitter:domain" content="sebagudelo.com"key="twitter-domain"/>
+        <meta property="twitter:domain" content="@sebagudelo" key="twitter-domain"/>
         <meta property="twitter:url" content="https://sebagudelo.com/" key="twitter-url"/>
         <meta property="og:title" content={siteTitle} key="twitter-title"/>
-        <meta name="twitter:description" content="" key="twitter-description"/>
+        <meta name="twitter:description" content="Learn how teams grow products. From discovery, to delivery and market adoption, we will explore all aspects of life as a Product Manager." key="twitter-description"/>
         <meta name="twitter:image" content="/images/SebTwitter.png" key="twitter-image"/>
         
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
