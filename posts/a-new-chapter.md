@@ -1,5 +1,5 @@
 ---
-title: 'A New Chapter - Learning to be a Product Manager'
+title: 'Becoming a Product Manager - A New Chapter'
 date: '2022-03-28'
 url: 'https://sebagudelo.com/posts/a-new-chapter'
 description: 'It’s great to be back writing again. Working in Product Marketing & Growth for startups since 2020 has been quite a ride. The last few months were particularly intense. Working all hours and I didn’t prioritise writing for myself. After some soul-searching, I will be embarking on my next chapter of Product Management.'
