@@ -17,13 +17,13 @@ It’s great to be back writing again. Working in Product Marketing & Growth for
 
 Having just finished up at my last startup gig, I have now taken a few weeks for rest and some self-work. Started a few days of a Vipassana meditation retreat, before testing positive for COVID and then entering self-isolation for 14 days.
 
-The symptoms are clearing now and with a fresh mind it's time for a new chapter - both for writing and career. 
+The symptoms are clearing now and with a fresh mind it's time for a new chapter - both for writing and career.
 
 ## What’s been happening, what’s next?
 
 Firstly, you will notice that I am no longer writing from Tech,Life,Travels and Substack.
 
-I decided to build my own site last year[sebagudelo.com](https://sebagudelo.com/).
+I decided to build my own site last year [sebagudelo.com](https://sebagudelo.com/).
 
 The initial theme of this site will be **How Products Grow**. I will explore how teams grow products from inception to launch.
 
@@ -57,7 +57,7 @@ I have been messing around with code since 2017 and have been working directly w
 
 Those that know me best, know my long history with music and playing in bands - small groups of musicians that make songs. The songs are products of our exploration, synthesis and expression. Through the years, I have found I am not always the creative spark behind starting a song. I enjoy exploring and refining from the spark stage to the launch. Working with bands has been some of the happiest times of my life. A cross-functional product team reminds me of this same dynamic.
 
-I have decided to apply this creativity to my passion for digital products. After some soul-searching, I will be embarking on my next chapter of Product Management. 
+I have decided to apply this creativity to my passion for digital products.  
 
 ## Why Product Management?
 
