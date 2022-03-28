@@ -23,6 +23,10 @@ The symptoms are clearing now and with a fresh mind it's time for a new chapter 
 
 Firstly, you will notice that I am no longer writing from Tech,Life,Travels and Substack.
 
+I decided to build my own site last year[sebagudelo.com](https://sebagudelo.com/).
+
+The initial theme of this site will be **How Products Grow**. I will explore how teams grow products from inception to launch.
+
 In October last year, I studied with [Code.Sydney](https://www.code.sydney/). We did the [Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) via Udemy.
 
 Here is a pic with how we kicked off: 
@@ -31,7 +35,7 @@ Here is a pic with how we kicked off:
 
 I had previously worked through [The Odin Project](https://www.theodinproject.com/): HTML, CSS and basic Javascript. React is a modern Javascript library to build user interfaces and it was great to learn the basics.
 
-From this course, I bridged across to a Next.js starter course and built this site - I will be writing about How Products Grow and exploring how teams grow products from inception and beyond.
+From this course, I bridged across to a Next.js starter course and built [sebagudelo.com](https://sebagudelo.com/).
 
 **Tools I used:** 
 
