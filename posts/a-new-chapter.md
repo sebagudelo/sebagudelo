@@ -57,7 +57,7 @@ I have been messing around with code since 2017 and have been working directly w
 
 Those that know me best, know my long history with music and playing in bands - small groups of musicians that make songs. The songs are products of our exploration, synthesis and expression. Through the years, I have found I am not always the creative spark behind starting a song. I enjoy exploring and refining from the spark stage to the launch. Working with bands has been some of the happiest times of my life. A cross-functional product team reminds me of this same dynamic.
 
-I have decided to apply this creativity to my passion for digital products.  
+I have decided to apply this creativity to my passion for digital products. After some soul-searching, I will be embarking on my next chapter of Product Management.  
 
 ## Why Product Management?
 
