@@ -23,7 +23,7 @@ The symptoms are clearing now and with a fresh mind it's time for a new chapter 
 
 Firstly, you will notice that I am no longer writing from Tech,Life,Travels and Substack.
 
-I decided to build my own site last year [sebagudelo.com](https://sebagudelo.com/).
+I decided to build my own site last year: [sebagudelo.com](https://sebagudelo.com/).
 
 The initial theme of this site will be **How Products Grow**. I will explore how teams grow products from inception to launch.
 
@@ -73,7 +73,7 @@ In 2020, I explored creating my own venture in the [Antler](https://www.antler.c
 
 In 2021, I played a Product co-pilot role as a Product Marketing Manager in some startups. This got me close to Product teams and opened my eyes to the possibilities.
 
-I did some future visualisation. As a Product Marketing Manager, the pinnacle of a career could be creating an amazing strategy and launch that delivers triple-digit growth. This strategy could reach millions of people through many high-visibility channels. It looked great in my visualisation and an amazing business outcome, but it didn’t feel like me.
+I did some visualisation. As a Product Marketing Manager, the pinnacle of a career could be creating an amazing strategy and launch that delivers triple-digit growth. This strategy could reach millions of people through many high-visibility channels. It looked great in my visualisation and an amazing business outcome, but it didn’t feel like me.
 
 I did the same visualisation as a Product Manager, the pinnacle of a career could be creating an amazing product with a talented product team, which then gets used by millions of customers. This felt like me. The longevity of a solution to a customer problem makes me feel proud. I have realised I get a warm feeling in my stomach and heart when I think about it. I’m letting this feeling pull me towards it.
 
