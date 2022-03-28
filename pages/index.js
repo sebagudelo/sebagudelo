@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
         <p>💻 10+ years tech experience, with 5 years working
         directly on user + retention problems with Product + Customer Success teams</p> 
         
-        <p>🛠️ In transition to PM with <a href="https://www.joincolab.io/">Co.Lab |</a> Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
+        <p>🛠️ In transition to PM with <a href="https://www.joincolab.io/">Co.Lab |</a> Previously at: <a href="https://nhost.io">Nhost |</a> <a href="https://antler.co">Antler |</a> <a href="https://tealium.com">Tealium |</a> <a href="https://www.isentia.com/">Isentia |</a> <a href="https://bazaarvoice.com"> Bazaarvoice</a> </p>
         
         <p>🏄‍♂️ Sharing the ride to help reflect on my Product thinking and also to help other Product People on their journey</p>
         
