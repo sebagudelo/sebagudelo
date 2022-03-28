@@ -100,7 +100,7 @@ Here's the steps:
 
 Here was our kick off call last week:
 
-![coLabKickoff](/images/colabKickoff.png "Co.Lab Kickoff call")
+![coLabKickoff](/images/colabKickoff.jpeg "Co.Lab Kickoff call")
 
 
 - I'll also be helping [Code Sydney](https://www.code.sydney/) build out Product Management practices within some of their projects
