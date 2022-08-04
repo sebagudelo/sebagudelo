@@ -30,9 +30,8 @@ export default function Home({ allPostsData }) {
         </p>
 
         <p>
-          🛠️ In transition to PM with{" "}
-          <a href="https://www.joincolab.io/">Co.Lab |</a> Previously at:{" "}
-          <a href="https://nhost.io">Nhost |</a>{" "}
+          🛠️ PM working on <a href="https://www.getmesh.co/">Mesh |</a>{" "}
+          Previously at: <a href="https://nhost.io">Nhost |</a>{" "}
           <a href="https://antler.co">Antler |</a>{" "}
           <a href="https://tealium.com">Tealium |</a>{" "}
           <a href="https://www.isentia.com/">Isentia |</a>{" "}
