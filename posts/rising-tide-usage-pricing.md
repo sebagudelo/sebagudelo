@@ -1,26 +1,27 @@
 ---
-title: 'The Rising Tide of Usage-based Pricing in SaaS'
-date: '2021-05-05'
-url: 'https://sebagudelo.com/posts/rising-tide-usage-pricing'
-description: 'SaaS pricing is an art and a science. Pricing done well can accelerate growth and drive product adoption. Done poorly, it creates friction in the funnel, and can lead to churn later on. While value based pricing will still exist with highly customised solutions, I am observing a rising tide that many SaaS companies will introduce more transparent usage-based pricing as part of their offerings, to get customers started.'
-author: 'Seb Agudelo'
-readtime: '3 mins'
-image: '/images/RisingTide.jpeg'
+title: "The Rising Tide of Usage-based Pricing in SaaS"
+date: "2021-05-05"
+url: "https://findseb.com/posts/rising-tide-usage-pricing"
+description: "SaaS pricing is an art and a science. Pricing done well can accelerate growth and drive product adoption. Done poorly, it creates friction in the funnel, and can lead to churn later on. While value based pricing will still exist with highly customised solutions, I am observing a rising tide that many SaaS companies will introduce more transparent usage-based pricing as part of their offerings, to get customers started."
+author: "Seb Agudelo"
+readtime: "3 mins"
+image: "/images/RisingTide.jpeg"
 ---
 
-SaaS pricing is an art and a science. 
+SaaS pricing is an art and a science.
 
 Pricing done well can accelerate growth and drive product adoption. Done poorly, it creates friction in the funnel, and can lead to churn later on.
 
 In a Sales-led motion, some of the most successful SaaS businesses have led with brand, events and compelling customer stories at the top of funnel. While then proposing [value based pricing](https://hbr.org/2016/08/a-quick-guide-to-value-based-pricing) as it gets deeper into the sales cycle.
 
-Once a sales process kicks off, multiple meetings occur before a solution is scoped and pricing is, eventually, presented to a buyer. 
+Once a sales process kicks off, multiple meetings occur before a solution is scoped and pricing is, eventually, presented to a buyer.
 
 While value based pricing will still exist with highly customised solutions, I am observing a rising tide that many SaaS companies will introduce more transparent usage-based pricing as part of their offerings, to get customers started.
 
 ![Rising Tide!](/images/RisingTide.jpeg "Rising Tide")
 
-------
+---
+
 ## The Case for Usage & Consumption Based Pricing
 
 A usage-based pricing model is a service provision and payment in which the customer pays according to the resources used.
@@ -31,7 +32,7 @@ While they still have customised options for a Sales based approach, there is a 
 
 ![Stripe Pricing](/images/StripePricing.jpeg "Stripe Pricing")
 
-From a SaaS perspective, [Kyle Poyar](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/), partner at [OpenView](https://openviewpartners.com/), makes a compelling case  explaining why many of the most successful SaaS businesses like: Twilio, AWS, Stripe and Snowflake offering are winning in the market with usage-based pricing.
+From a SaaS perspective, [Kyle Poyar](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/), partner at [OpenView](https://openviewpartners.com/), makes a compelling case explaining why many of the most successful SaaS businesses like: Twilio, AWS, Stripe and Snowflake offering are winning in the market with usage-based pricing.
 
 > "The usage-based model allows a customer to start at a low cost, minimizing friction to getting started while still preserving the ability to monetize a customer over time because the price is directly tied with the value a customer receives.”
 
@@ -41,11 +42,11 @@ A key principle is preserving the balance of price and value while usage increas
 
 ![Price Value](/images/PriceValue.gif "Price Value Scale")
 
-------
+---
 
 ## Buyers Point of View
 
-My own perspectives on this come after many years in SaaS and now experiencing life on the client side as a Product Marketer, and a buyer of SaaS products.  
+My own perspectives on this come after many years in SaaS and now experiencing life on the client side as a Product Marketer, and a buyer of SaaS products.
 
 Having experienced both sides of the fence, here are some of my first hand experiences on why Usage Based pricing makes sense from a buyer’s perspective and things to consider:
 
@@ -61,17 +62,16 @@ Having experienced both sides of the fence, here are some of my first hand exper
 
 I have read lots of things about the overlap between Product Manager (PM) and Product Marketing Manager (PMM). From my experience, so far, finding the right balance breaks down to 3 key areas:
 
-------
+---
 
 ## Future SaaS Pricing
 
 It is interesting to imagine the types of pricing schemes that may emerge in the future and not just around usage-based pricing.
 
-1) Communities - group pricing models. Still usage-based and offering higher tiers, and special rates, incentivising multiple users at the same time. There is a lot of value that can be unlocked by a group of users using the same product and building at the same time. This is the foundation of any great product community
+1. Communities - group pricing models. Still usage-based and offering higher tiers, and special rates, incentivising multiple users at the same time. There is a lot of value that can be unlocked by a group of users using the same product and building at the same time. This is the foundation of any great product community
 
-2) Transfer of credits mid-service term. Imagine a StubHub marketplace for companies to resell SaaS services that they are no longer using. While this could lead to a lost customer, it could mean additional spend in another customer, or even a new customer
+2. Transfer of credits mid-service term. Imagine a StubHub marketplace for companies to resell SaaS services that they are no longer using. While this could lead to a lost customer, it could mean additional spend in another customer, or even a new customer
 
-3) Dynamic Pricing. Super applicable to Ecommerce and Travel, how could this apply in SaaS?
+3. Dynamic Pricing. Super applicable to Ecommerce and Travel, how could this apply in SaaS?
 
 Pricing is fascinating and with more software being created everyday, I am super interested to see what is to come and the influence Product Marketers will have on customer focused pricing models.
-

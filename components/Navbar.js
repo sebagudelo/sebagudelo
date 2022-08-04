@@ -1,24 +1,23 @@
-import Link from 'next/link'
-import styles from './layout.module.css'
+import Link from "next/link";
+import styles from "./layout.module.css";
 
 export default function Navbar() {
-    return (
-
-    <nav className={styles.navbar}>  
+  return (
+    <nav className={styles.navbar}>
       <nav className={styles.nav}>
-        <Link href="https://sebagudelo.com/">
+        <Link href="https://findseb.com/">
           <a>Home</a>
         </Link>
-        <Link href="https://sebagudelo.com/#about">
+        <Link href="https://findseb.com/#about">
           <a>About</a>
         </Link>
-        <Link href="https://sebagudelo.com/#writing">
+        <Link href="https://findseb.com/#writing">
           <a>Writing</a>
         </Link>
-        <Link href="https://sebagudelo.com/#contact">
+        <Link href="https://findseb.com/#contact">
           <a>Contact</a>
         </Link>
       </nav>
-      </nav>
-    )
-  }
+    </nav>
+  );
+}

@@ -1,11 +1,11 @@
 ---
-title: 'What is Product Marketing and Why It Matters?'
-date: '2021-04-19'
-url: 'https://sebagudelo.com/posts/what-is-product-marketing'
-description: 'With so many products coming to market, whether your business model is SaaS, Marketplace or Ecommerce - differentiation will get more and more challenging, due to saturation. How you position and tell your product story and iterate on that from customer feedback will be table stakes.'
-author: 'Seb Agudelo'
-readtime: '2 mins'
-image: '/images/PMMPM.png'
+title: "What is Product Marketing and Why It Matters?"
+date: "2021-04-19"
+url: "https://findseb.com/posts/what-is-product-marketing"
+description: "With so many products coming to market, whether your business model is SaaS, Marketplace or Ecommerce - differentiation will get more and more challenging, due to saturation. How you position and tell your product story and iterate on that from customer feedback will be table stakes."
+author: "Seb Agudelo"
+readtime: "2 mins"
+image: "/images/PMMPM.png"
 ---
 
 ## What is Product Marketing?
@@ -22,7 +22,8 @@ I have come across a few different definitions, and [Product Marketing Alliance]
 
 You can read more about this [here](https://productmarketingalliance.com/what-is-product-marketing/).
 
-------
+---
+
 ## Why Product Marketing matters?
 
 With so many products coming to market, whether your business model is SaaS, Marketplace or Ecommerce - differentiation will get more and more challenging, due to saturation. How you position and tell your product story and iterate on that from customer feedback will be table stakes. Or, as I put it:
@@ -33,11 +34,11 @@ Product Marketing, done right, can be the ultimate silo-breaker for teams workin
 
 Product Led-Growth is all the rage right now - and the main output for all of this is organic growth rate. The fastest growing companies of the future will have the most efficient organic growth rates. This will be driven by a remarkable product (time-to-value), combined with a compelling story that sticks, while truly understanding the market and adapting to how quickly it changes. Product Marketing plays a key role here.
 
-------
+---
 
 ## What is important to get right in Product Marketing?
 
-I have read lots of things about the overlap between Product Manager (PM) and Product Marketing Manager (PMM). 
+I have read lots of things about the overlap between Product Manager (PM) and Product Marketing Manager (PMM).
 
 ![PMM](/images/PMMPM.png "Responsibility split between Product Marketing Manager + Product Manager")
 

@@ -1,11 +1,11 @@
 ---
-title: 'The Quest for Customer Knowledge'
-date: '2021-04-28'
-url: 'https://sebagudelo.com/posts/quest-for-customer-knowledge'
-description: 'Research is a deep topic, and a quest for learning more about your customer and market. Still, many businesses get this wrong. Here’s why. Jumping straight to a focus group or a quick customer survey is missing the point. From my perspective, starting with questions and assumptions is the most important thing to start the quest. The tactics follow from here.'
-author: 'Seb Agudelo'
-readtime: '3 mins'
-image: '/images/ConfirmationBias.jpeg'
+title: "The Quest for Customer Knowledge"
+date: "2021-04-28"
+url: "https://findseb.com/posts/quest-for-customer-knowledge"
+description: "Research is a deep topic, and a quest for learning more about your customer and market. Still, many businesses get this wrong. Here’s why. Jumping straight to a focus group or a quick customer survey is missing the point. From my perspective, starting with questions and assumptions is the most important thing to start the quest. The tactics follow from here."
+author: "Seb Agudelo"
+readtime: "3 mins"
+image: "/images/ConfirmationBias.jpeg"
 ---
 
 Research is a deep topic, and a quest for learning more about your customer and market.
@@ -16,12 +16,14 @@ Jumping straight to a focus group or a quick customer survey is missing the poin
 
 From my perspective, starting with questions and assumptions is the most important thing to start the quest. The tactics follow from here.
 
------
+---
+
 ## Questions
- 
+
 > "A sentence worded or expressed so as to elicit information."
-Oxford Languages
------
+
+## Oxford Languages
+
 ## Let’s get meta - Use questions to qualify your questions
 
 What are the aspects of your industry which you can’t Google?
@@ -36,11 +38,11 @@ This is the gold dust. I often find, I don’t know what I don’t know.
 
 By getting clear on the questions, I, at least, get started and then the surprises roll in along the way.
 
-----
+---
 
 ## Assumptions
 
-> "Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." 
+> "Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in."
 
 Isaac Asimov
 
@@ -54,17 +56,17 @@ Experience is useful to pattern match, however, the ability to learn and adapt i
 
 By understanding what areas you want to validate it applies a lens for selecting the right research methodology.
 
-----
+---
 
 ## Validating Assumptions
 
 I was chatting with a friend the other day who made a great point about Confirmation Bias.
 
-In research, it is important to separate internal opinions from the objective truths of your market. Think about the whole context of what you are learning and deconstruct your assumptions. In summary, no cherry-picking. 
+In research, it is important to separate internal opinions from the objective truths of your market. Think about the whole context of what you are learning and deconstruct your assumptions. In summary, no cherry-picking.
 
 ![Confirmation Bias](/images/ConfirmationBias.jpeg "Confirmation Bias")
 
-----
+---
 
 ## Qualitative Research - A Perspective
 
@@ -72,7 +74,7 @@ While there is so much out there to learn on Quantitative research, I will mainl
 
 These are deeper type of interviews, more focused on discovery and open-ended questions.
 
-I have found that Qualitative research is a useful way to further align the overlap between Product Marketing and Product Management. 
+I have found that Qualitative research is a useful way to further align the overlap between Product Marketing and Product Management.
 
 **Generative** research involves looking to the external market for trends and themes to drive innovation and new solutions. This is generally led by Product Marketing.
 
@@ -80,11 +82,11 @@ I have found that Qualitative research is a useful way to further align the over
 
 Both continue forward as a collaboration. If you are a small team, there is no reason that both teams can’t participate in both types of Qual research. Though, it is important to clarify who drives what type of research forward.
 
-----
+---
 
 ## A few closing tips in The Quest for Customer Knowledge
 
-Once you have aligned your questions/assumptions…. 
+Once you have aligned your questions/assumptions….
 
 - Experiment with different formats, Win/Loss Interviews, 1:1, 1:Many - the goal is to learn something. Double-down on the format that works best for your business and customer
 

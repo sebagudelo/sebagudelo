@@ -1,7 +1,7 @@
 ---
 title: 'OKRs: Breathing Life into a Corporate Acronym'
 date: '2021-05-15'
-url: 'https://sebagudelo.com/posts/okrs-breathing-life'
+url: 'https://findseb.com/posts/okrs-breathing-life'
 description: 'How do you get true alignment in your team?
 How do you stay focused on the goals that matter?
 These are the questions that are easy to ask but harder to answer.
@@ -24,7 +24,7 @@ OKRs are not a new concept and there is so much content about them, but why are 
 
 Let’s cover a brief definition, and then get some insights from an expert, while [breathing life into a corporate acronym.](https://review.firstround.com/How-to-Make-OKRs-Actually-Work-at-Your-Startup)
 
-----
+---
 
 ## What is an OKR?
 
@@ -36,7 +36,7 @@ Here are some of the companies that use them as part of their operating rhythm:
 
 ![OKR Logos](/images/OKRLogo.jpeg "Logos of companies that use OKRs")
 
-----
+---
 
 ## Insights from an expert
 
@@ -58,7 +58,7 @@ This simply stated goal allowed an organisation of 300,000+ engineers and scient
 
 ![Rocket Diagram](/images/RocketGoal.png "Diagram showing steps to design as rocket")
 
-----
+---
 
 ## It’s not just about the metrics
 
