@@ -24,11 +24,9 @@ export default function Home({ allPostsData }) {
         <h2 className={utilStyles.headingLg} id="about">
           <a href="https://findseb.com/#about">About</a>
         </h2>
-        <p>👋 Hey, I'm Seb</p>
-
         <p>
           💻 10+ years tech experience, with 5 years working directly on user +
-          retention problems with Product + Customer Success teams
+          retention problems with Product + Customer Success + Marketing teams
         </p>
 
         <p>
